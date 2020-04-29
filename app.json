@@ -1,0 +1,17 @@
+{
+  "name": "launchCameraAsyncIssue",
+  "displayName": "launchCameraAsyncIssue",
+  "expo": {
+    "name": "launchCameraAsyncIssue",
+    "slug": "launchCameraAsyncIssue",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
